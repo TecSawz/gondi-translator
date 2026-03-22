@@ -1,0 +1,6 @@
+{
+  "i": {"gondi": "nan", "type": "pronoun"},
+  "you": {"gondi": "nin", "type": "pronoun"},
+  "eat": {"gondi": "tin", "type": "verb"},
+  "rice": {"gondi": "bhat", "type": "noun"}
+}
